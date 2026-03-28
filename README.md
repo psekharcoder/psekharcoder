@@ -59,7 +59,7 @@ TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psekharcoder&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=psekharcoder&theme=tokyonight&cache_bust=999" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psekharcoder&theme=tokyonight" />
 </p>
 ---
 
