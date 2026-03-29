@@ -54,14 +54,11 @@ TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank
 
 ---
 
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psekharcoder&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=psekharcoder&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=psekharcoder&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=psekharcoder&theme=tokyonight)
 
 ---
 
