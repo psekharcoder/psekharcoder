@@ -57,9 +57,9 @@ TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=psekharcoder&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=psekharcoder&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=psekharcoder&theme=tokyonight&cache_seconds=1&v=20260330" />
+  <img src="https://streak-stats.demolab.com/?user=psekharcoder&theme=tokyonight" />
 </p>
 ---
 
