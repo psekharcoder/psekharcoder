@@ -22,17 +22,53 @@
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-C++ | Java | C | Python  
+### 💡 Overview
+My technical skill set spans across programming, backend development, and cybersecurity.  
+I focus on building strong fundamentals while applying them in real-world projects and security analysis.
 
-**Web & Backend:**  
-HTML | CSS | JavaScript | Flask  
+<table>
+<tr>
+<td><strong>Category</strong></td>
+<td><strong>Technologies & Tools</strong></td>
+</tr>
 
-**Cybersecurity Tools:**  
-Nmap | Burp Suite | Wireshark | Metasploit  
+<tr>
+<td>💻 Programming Languages</td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,java,c,python" />
+<br>
+C++ | Java | C | Python
+</td>
+</tr>
 
-**Platforms:**  
-TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank  
+<tr>
+<td>🌐 Web & Backend Development</td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+<br>
+HTML | CSS | JavaScript | Flask
+</td>
+</tr>
+
+<tr>
+<td>🔐 Cybersecurity & Networking</td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux" />
+<br>
+Nmap | Burp Suite | Wireshark | Metasploit
+</td>
+</tr>
+
+<tr>
+<td>⚙️ Platforms & Practice</td>
+<td>
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+<br>
+TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -53,7 +89,13 @@ TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank
 - Strengthens data confidentiality  
 
 ---
+## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=psekharcoder&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=psekharcoder&theme=tokyonight&cache_seconds=86400)
+
+---
 
 ## 🏆 Achievements
 - 🥇 Finalist – Innov-a-thon (NIT Rourkela)  
