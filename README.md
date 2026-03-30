@@ -22,10 +22,6 @@
 
 ## 🛠 Tech Stack
 
-### 💡 Overview
-My technical skill set spans across programming, backend development, and cybersecurity.  
-I focus on building strong fundamentals while applying them in real-world projects and security analysis.
-
 <table>
 <tr>
 <td><strong>Category</strong></td>
@@ -33,38 +29,37 @@ I focus on building strong fundamentals while applying them in real-world projec
 </tr>
 
 <tr>
-<td>💻 Programming Languages</td>
+<td>💻 Languages</td>
 <td>
 <img src="https://skillicons.dev/icons?i=cpp,java,c,python" />
-<br>
-C++ | Java | C | Python
 </td>
 </tr>
 
 <tr>
-<td>🌐 Web & Backend Development</td>
+<td>🌐 Web & Backend</td>
 <td>
 <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
-<br>
-HTML | CSS | JavaScript | Flask
 </td>
 </tr>
 
 <tr>
-<td>🔐 Cybersecurity & Networking</td>
+<td>🔐 Cybersecurity</td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux" />
-<br>
-Nmap | Burp Suite | Wireshark | Metasploit
+<img src="https://img.shields.io/badge/Nmap-005f87?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge" />
 </td>
 </tr>
 
 <tr>
-<td>⚙️ Platforms & Practice</td>
+<td>⚙️ Platforms</td>
 <td>
-<img src="https://skillicons.dev/icons?i=github,vscode" />
-<br>
-TryHackMe | HackTheBox | DVWA | LeetCode | HackerRank
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DVWA-grey?style=for-the-badge" />
 </td>
 </tr>
 
