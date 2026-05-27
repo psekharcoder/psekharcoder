@@ -86,8 +86,6 @@
 ---
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=psekharcoder&show_icons=true&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=psekharcoder&theme=tokyonight&cache_seconds=86400)
 
 ---
